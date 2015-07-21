@@ -1,5 +1,5 @@
 {
-    "name": "yutaf/ClassLoader",
+    "name": "yutaf/class-loader",
     "license": "MIT",
     "description": "class loader",
     "require": {
