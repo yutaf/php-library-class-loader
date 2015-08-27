@@ -2,9 +2,9 @@
 
 /**
  * Class ClassLoader
- *
- * @author Yuta Fujishiro<fujishiro@amaneku.co.jp>
  */
+namespace Yutaf;
+
 class ClassLoader
 {
     protected $dirs;
